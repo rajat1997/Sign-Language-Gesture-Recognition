@@ -23,3 +23,10 @@ step 7. run test
 
 step 8. run main
 
+![result1](https://user-images.githubusercontent.com/28310186/57789478-9d368700-7756-11e9-9a75-48214eba6e7a.JPG)
+
+![result2](https://user-images.githubusercontent.com/28310186/57789512-b17a8400-7756-11e9-92d7-e95ea93dabc4.JPG)
+
+
+![result3](https://user-images.githubusercontent.com/28310186/57789537-bfc8a000-7756-11e9-9eaa-5a7b46413524.JPG)
+
