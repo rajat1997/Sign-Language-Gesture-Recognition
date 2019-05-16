@@ -1,5 +1,24 @@
 # Sign-Language-Gesture-Recognition
 
+Requirement 
+
+
+Python 3.6
+
+
+OpenCV 4.0.0
+
+
+Tensorflow
+
+
+Keras
+
+
+Anaconda (jupyter notebook or Spyder)
+
+
+
 step 1. download any dataset (ASL)
 
 
