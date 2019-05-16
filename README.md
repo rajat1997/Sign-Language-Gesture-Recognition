@@ -15,7 +15,7 @@ step 4. run load images
 step 5. run flip images
 
 
-step 6. run train ( CNN keras ) --- create file (cnn_model_keras.h5)
+step 6. run train ( CNN keras ) --- create file (cnn_model_keras.h5) #download train.ipynb as train.py and add it into folder so that file will import in test.ipynb
 
 
 step 7. run test
